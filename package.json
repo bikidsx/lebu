@@ -1,6 +1,6 @@
 {
   "name": "lebu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Terminal connection manager for SSH, databases, and SFTP",
   "type": "module",
   "main": "./dist/cli.js",

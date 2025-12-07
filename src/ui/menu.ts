@@ -19,7 +19,7 @@ function printHeader() {
   console.log(chalk.cyan("  ███████╗███████╗██████╔╝╚██████╔╝"));
   console.log(chalk.cyan("  ╚══════╝╚══════╝╚═════╝  ╚═════╝ "));
   console.log();
-  console.log(chalk.gray("  🔗 Connection Manager v0.1.0"));
+  console.log(chalk.gray("  🔗 Connection Manager v0.1.1"));
   console.log(chalk.gray("  ─────────────────────────────────"));
   console.log();
 }
